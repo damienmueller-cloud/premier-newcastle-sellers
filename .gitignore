@@ -1,2 +1,2 @@
-node_modules/
-*.py
+_gen_batch2.py
+.DS_Store
