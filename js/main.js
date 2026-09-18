@@ -30,18 +30,18 @@
 
   document.querySelectorAll("form.lead-form").forEach(function (form) {
     // Hard attribution — we are the lead source
-    ensureHidden(form, "lead_source", "Premier Newcastle Sellers — Damien First Pick");
+    ensureHidden(form, "lead_source", "Premier Estate Agents — Newcastle seller site");
     ensureHidden(
       form,
       "attribution",
       "Lead originated from damienmueller-cloud.github.io/premier-newcastle-sellers (NOT premierestateagents.com.au organic)"
     );
-    ensureHidden(form, "referred_by", "Damien / Premier Newcastle Sellers site");
+    ensureHidden(form, "referred_by", "Premier Estate Agents Newcastle seller site");
     ensureHidden(form, "_cc", "rodney@premierestateagents.com.au");
     ensureHidden(
       form,
       "_subject",
-      "Seller lead via Premier Newcastle Sellers (Damien / First Pick site)"
+      "Seller lead via Premier Estate Agents seller site (Newcastle)"
     );
 
     const map = {

@@ -1,9 +1,9 @@
 /* Premier Seller Leads — mobile-first */
 :root {
-  --navy: #0c2340;
-  --navy-mid: #163a5f;
-  --gold: #c4a35a;
-  --gold-light: #e8d5a3;
+  --navy: #0a1628;
+  --navy-mid: #143a5c;
+  --gold: #b8954a;
+  --gold-light: #e6d4a8;
   --cream: #f7f4ef;
   --white: #ffffff;
   --ink: #1a1a1a;
@@ -40,7 +40,7 @@ a:hover { color: var(--gold); }
   position: sticky;
   top: 0;
   z-index: 60;
-  background: #1a2744;
+  background: var(--navy);
   color: #fff;
   padding: .55rem 1rem;
   display: flex;

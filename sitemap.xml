@@ -23,12 +23,57 @@
   <url>
     <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/privacy.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/thank-you.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/guides/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/guides/how-to-choose-a-selling-agent.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/guides/preparing-your-home-to-sell.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/guides/hunter-local-market-faq.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/councils/newcastle.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/councils/lake-macquarie.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/councils/maitland.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/councils/cessnock.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/councils/port-stephens.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/lambton.html</loc>
@@ -56,12 +101,127 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/hamilton.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/mayfield.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/adamstown.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/wallsend.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/jesmond.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/stockton.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/the-junction.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/charlestown.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/lake-macquarie.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/belmont.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/warners-bay.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/toronto.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/speers-point.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/glendale.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/maitland.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/east-maitland.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/rutherford.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/thornton.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/cessnock.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/kurri-kurri.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/branxton.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/nelson-bay.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/raymond-terrace.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/medowie.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/suburbs/anna-bay.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
