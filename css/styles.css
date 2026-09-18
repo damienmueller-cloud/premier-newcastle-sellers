@@ -34,12 +34,43 @@ a:hover { color: var(--gold); }
 }
 .skip-link:focus { left: 1rem; top: 1rem; }
 
+
+/* Sticky call bar — always above header */
+.call-bar {
+  position: sticky;
+  top: 0;
+  z-index: 60;
+  background: #1a2744;
+  color: #fff;
+  padding: .55rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.25rem;
+  justify-content: center;
+  align-items: center;
+  font-size: .95rem;
+  border-bottom: 1px solid rgba(196,163,90,.35);
+}
+.call-bar a {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  padding: .25rem .55rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.25);
+}
+.call-bar a:hover { background: var(--gold); color: var(--navy); border-color: var(--gold); }
+.call-bar .label { color: var(--gold-light); font-weight: 600; border: none; padding: 0; }
+
 /* Header */
 .site-header {
   background: var(--navy);
   color: var(--white);
-  position: sticky; top: 0; z-index: 50;
+  position: sticky; top: 2.75rem; z-index: 50;
   box-shadow: 0 2px 12px rgba(0,0,0,.2);
+}
+@supports (height: 100dvh) {
+  .site-header { top: 2.75rem; }
 }
 .header-inner {
   display: flex; align-items: center; justify-content: space-between;
@@ -257,3 +288,13 @@ a:hover { color: var(--gold); }
   background: var(--success); color: white; display: flex; align-items: center; justify-content: center;
   font-size: 1.75rem;
 }
+
+.nav .btn-call {
+  color: var(--gold-light) !important;
+  border: 1px solid var(--gold);
+  padding: .4rem .75rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+.nav .btn-call:hover { background: var(--gold); color: var(--navy) !important; }
