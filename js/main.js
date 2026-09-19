@@ -37,7 +37,7 @@
       "Lead originated from damienmueller-cloud.github.io/premier-newcastle-sellers (NOT premierestateagents.com.au organic)"
     );
     ensureHidden(form, "referred_by", "Premier Estate Agents Newcastle seller site");
-    ensureHidden(form, "_cc", "rodney@premierestateagents.com.au");
+    ensureHidden(form, "_cc", "rodney@premierestateagents.com.au,sales@premierestateagents.com.au,stephen@premierestateagents.com.au");
     ensureHidden(
       form,
       "_subject",
