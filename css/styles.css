@@ -306,3 +306,31 @@ a:hover { color: var(--gold); }
   text-decoration: none !important;
 }
 .nav .btn-call:hover { background: var(--gold); color: var(--navy) !important; }
+
+
+/* Conversion trust strip (homepage appraisal) */
+.trust-next { margin-top: 1.15rem; }
+.trust-next-title {
+  color: var(--gold-light); font-size: 1rem; font-weight: 700;
+  margin: 0 0 .75rem; letter-spacing: .01em;
+}
+.trust-next .grid-3 { gap: .75rem; }
+.trust-next .card { padding: 1rem 1.05rem; }
+.trust-next .card h3 { font-size: 1rem; margin-bottom: .35rem; }
+.trust-next .card p { font-size: .88rem; }
+.trust-next .step-num { width: 1.75rem; height: 1.75rem; font-size: .8rem; margin-bottom: .5rem; }
+.trust-next .card a { color: var(--navy-mid); font-weight: 600; }
+@media (max-width: 719px) {
+  .trust-next .grid-3 { grid-template-columns: 1fr; }
+}
+
+/* Thank-you next steps */
+.thanks { max-width: 40rem; }
+.thanks-next { text-align: left; margin-top: 2rem; }
+.thanks-next h2 { color: var(--navy); font-size: 1.2rem; margin: 0 0 .75rem; }
+.thanks-next ol { margin: 0 0 1.25rem; padding-left: 1.25rem; color: var(--muted); }
+.thanks-next li { margin-bottom: .5rem; }
+.thanks-actions { display: flex; flex-wrap: wrap; gap: .65rem; justify-content: center; margin-top: 1.25rem; }
+.thanks-actions .btn { width: auto; display: inline-flex; }
+.thanks-links { margin-top: 1.5rem; font-size: .95rem; color: var(--muted); }
+.thanks-links a { font-weight: 600; }
