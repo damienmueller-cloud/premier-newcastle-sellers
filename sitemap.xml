@@ -591,4 +591,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/guides/multiple-offers-negotiating-sellers-newcastle.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
