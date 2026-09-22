@@ -712,4 +712,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://damienmueller-cloud.github.io/premier-newcastle-sellers/guides/beachside-coastal-sellers-newcastle-port-stephens.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
