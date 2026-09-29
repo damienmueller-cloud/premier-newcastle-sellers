@@ -4,6 +4,7 @@
 
 - Official agency site: https://www.premierestateagents.com.au/
 - This seller site: https://damienmueller-cloud.github.io/premier-newcastle-sellers/
+- What’s my home worth? (recent Premier sales, then an appraisal): https://damienmueller-cloud.github.io/premier-newcastle-sellers/value.html
 - Office: 75a Regent Street, New Lambton NSW 2305
 - Phone: 0414 216 040
 - Email: sales@premierestateagents.com.au
